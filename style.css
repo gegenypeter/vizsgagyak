@@ -1,0 +1,38 @@
+section {
+    position: relative;
+}
+
+#sec1 {
+    background-color:#ffaaff;
+    height: 100vh;
+}
+
+#sec2 {
+    background-color: #aa1211;
+    height: 100vh;
+}
+
+#sec3 {
+    background-color: #1266ff;
+    height: 100vh;
+}
+
+button {
+    position: absolute;
+    right: 40px;
+    bottom: 40px;
+    width: 200px;
+    height: 60px;
+}
+
+#b1 {
+    background-color: #17A589;
+}
+
+#b2 {
+    background-color: #909497;
+}
+
+#b3 {
+    background-color: #DFFF00;
+}
